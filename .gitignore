@@ -1,0 +1,15 @@
+*.d
+*.obj
+*.exe
+*.o
+
+cmake-build-debug/
+cmake-build-release/
+build/
+bin/
+lib/
+
+.idea/
+.vscode/
+
+.DS_Store

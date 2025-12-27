@@ -2,8 +2,7 @@
 #include "Tensor.h"
 
 int main() {
-    Tensor t1;
+    Tensor t1{1, 2, 3};
 
-    std::cout << "Hello, World!" << std::endl;
     return 0;
 }

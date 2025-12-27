@@ -18,4 +18,4 @@ gtest_discover_tests(TensorTests)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Tensor__ main.cpp)
+add_executable(Tensor__ main.cpp Tensor.cpp)
